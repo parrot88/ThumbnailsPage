@@ -10,7 +10,7 @@ This script make possible to create images thumbnails web page at your browser, 
 > ?path=C:hoge\imagesFolder
 
 ## Tips
-- If you are good at HTML coding, You can easyly chnage that how image looks.  
+- If you are good at HTML coding, You can easily chnage that how image looks.  
 Then fix "tag.tmp.php".
 
 - if image's name has numbering, this follow this numbering.  
