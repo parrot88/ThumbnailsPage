@@ -17,5 +17,5 @@ Then fix "tag.tmp.php".
 like "1.png", "2.png"...
 
 ## Why I created this
-I just wanted Thumbnails that I can easly change looks I want in my coding.  
+I just wanted Thumbnails that I can change easily how looks I want in my coding.
 Or I just only wanted enjoying quickly coding among huge project.
